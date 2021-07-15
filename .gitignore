@@ -45,5 +45,6 @@ target/
 
 # Project exclude paths
 /.gradle/
+/gradle/
 /build/
 /build/classes/java/main/
